@@ -1,0 +1,53 @@
+body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(144,52,175,1) 100%);
+}
+.c1{
+    color: #C31906;
+}
+.f1{
+    background: #68EDD3;
+    color: #9E17EB;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f2{
+    background: #68B2ED;
+    color: #1214B0;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f3{
+    background: #68DBED;
+    color:  #4412B0;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f4{
+    background: #6EF5AD;
+    color: #1279B0;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.f5{
+    background: #6888ED;
+    color: #D04513;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+}
+
+.c2{
+    background:#1e8c0b;
+    color: #a8193c;
+    width: 400px;
+    text-align: center;
+}
